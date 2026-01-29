@@ -1,5 +1,6 @@
 clox/*.o
 lox/*.class
+lox/bin/*.class
 clox/clox 
 clox/Test
 lox/bin/Test.class
