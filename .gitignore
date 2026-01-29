@@ -1,0 +1,4 @@
+clox/*.o
+lox/*.class
+clox/clox 
+clox/Test
