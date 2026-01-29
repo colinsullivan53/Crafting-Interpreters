@@ -2,3 +2,4 @@ clox/*.o
 lox/*.class
 clox/clox 
 clox/Test
+lox/bin/Test.class
